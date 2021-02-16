@@ -10,6 +10,12 @@ header {
 section {
   padding: 150px 0;
 }
+
+a {
+  color: #212529;
+  text-decoration: none;
+}
+
 /* Style all font awesome icons */
 .fa {
   padding: 20px;
@@ -17,7 +23,9 @@ section {
   width: 30px;
   text-align: center;
   text-decoration: none;
+  margin: 5px 2px;
   border-radius: 50%;
+  box-sizing: content-box;
 }
 
 /* Add a hover effect if you want */
