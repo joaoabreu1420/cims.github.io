@@ -73,9 +73,19 @@ hr {
   overflow: visible;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  color: #c7131b
+}
+
+h1, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+small {
+  color: #dca314
 }
 
 p {
@@ -6711,7 +6721,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #c7131b !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
