@@ -54,3 +54,14 @@ a {
 .fa-linkedin {
   color: white;
 }
+
+/* PARA USAR
+<div id="demobox">
+</div>
+*/
+
+#colorbox {
+  background-color: #c8111a ;
+  padding: 10px ;
+  border: 2px solid #dfa314 ;
+}
