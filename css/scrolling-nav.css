@@ -55,12 +55,13 @@ a {
   color: white;
 }
 
+/* Color Box */
 #colorbox {
   background-color: #c8111a ;
   padding: 10px ;
   border: 2px solid #dfa314 ;
 
-  /* PARA USAR
+  /* PARA USAR html:
   <div id="demobox">
   </div>
   */
@@ -70,7 +71,7 @@ a {
 /* The alert message box */
 .alert {
   padding: 20px;
-  background-color: #dfa314; /* Red */
+  background-color: #dfa314;
   color: white;
   margin-bottom: 15px;
 }
