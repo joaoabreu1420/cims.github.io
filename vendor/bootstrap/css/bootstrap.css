@@ -76,13 +76,13 @@ hr {
 h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  color: #c7131b
+  color: #E71615
 }
 
 h4 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  color: #dfa314
+  color: #F4AC00
 }
 
 h1, h3, h5, h6 {
@@ -6727,7 +6727,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #c7131b !important;
+  background-color: #E71615 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
