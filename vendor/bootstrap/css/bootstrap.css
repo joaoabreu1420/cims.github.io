@@ -26,8 +26,9 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
-  --redcims: #E71615
-  --yellowcims: #F4AC00
+  --redcidnay: #E71615
+  --bluecidnay: #082c44
+  --yellowcidnay: #F4AC00
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -78,7 +79,7 @@ hr {
 h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  color: #E71615
+  color: #072943
 }
 
 h4 {
@@ -177,8 +178,8 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: #F4AC00;
+  text-decoration: none;
 }
 
 a:not([href]):not([class]) {
@@ -6729,7 +6730,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #E71615 !important;
+  background-color: #072943 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
